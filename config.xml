@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/minecraft" version="1.0.0" viewmodes="maximized">
-    <tizen:application id="minecraft.tv" package="minecraft.tv" required_version="4.0"/>
-    <content src="index.html"/>
-    <name>Minecraft TV</name>
-    <icon src="icon.png"/>
-    <tizen:setting screen-orientation="landscape" context-sharing="enable" certificatetype="partner"/>
-</widget>
